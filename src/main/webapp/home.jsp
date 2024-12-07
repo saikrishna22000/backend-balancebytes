@@ -65,12 +65,13 @@
 
 <div class="sidebar">
   <a href="#">Home</a>
-  <a href="#">Learn About Nutrition</a>
-  <a href="#">Fun Challenges</a>
-  <a href="#">Track Your Meals</a>
-  <a href="#">My Profile</a>
+  <a href="learn.jsp">Learn About Nutrition</a>
+    <a href="calorie.jsp">Know calories</a>
+  <a href="challenges.jsp">Fun Challenges</a>
+  <a href="track.jsp">Track Your Meals</a>
+  <a href="profile.jsp">My Profile</a>
   <a href="#">Settings</a>
-  <a href="#">Logout</a>
+  <a href="index.jsp">Logout</a>
 </div>
 
 <div class="content">

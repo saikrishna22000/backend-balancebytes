@@ -81,7 +81,8 @@
 
 <div class="content">
   <h2>Add Your Meal</h2>
-  <form action="saveMeal" method="POST">
+  <form action="/meals/save" method="POST">
+
     <div class="form-group">
       <label for="mealType">Meal Type</label>
       <select id="mealType" name="mealType">
